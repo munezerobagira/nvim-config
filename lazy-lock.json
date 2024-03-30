@@ -9,7 +9,7 @@
   "cmp-path": { "branch": "main", "commit": "91ff86cd9c29299a64f968ebb45846c485725f23" },
   "cmp_luasnip": { "branch": "master", "commit": "05a9ab28b53f71d1aece421ef32fee2cb857a843" },
   "codeium.nvim": { "branch": "main", "commit": "cd5913ff5481229b15186293d1d46dd9500789f9" },
-  "conform.nvim": { "branch": "master", "commit": "5a15cc46e75cad804fd51ec5af9227aeb1d1bdaa" },
+  "conform.nvim": { "branch": "master", "commit": "192a6d2ddace343f1840a8f72efe2315bd392243" },
   "copilot-cmp": { "branch": "master", "commit": "72fbaa03695779f8349be3ac54fa8bd77eed3ee3" },
   "copilot.lua": { "branch": "master", "commit": "f7612f5af4a7d7615babf43ab1e67a2d790c13a6" },
   "dashboard-nvim": { "branch": "master", "commit": "413442b12d85315fc626c44a0ce4929b213ef604" },
@@ -76,4 +76,3 @@
   "vim-startuptime": { "branch": "master", "commit": "308b0088a864c4711a96e45b6734cf9294074f65" },
   "vim-wakatime": { "branch": "master", "commit": "a4c66faea1eca47dce7c7c3586332f75cfbe9edf" },
   "which-key.nvim": { "branch": "main", "commit": "4433e5ec9a507e5097571ed55c02ea9658fb268a" }
-}
